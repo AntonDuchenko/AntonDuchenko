@@ -48,7 +48,7 @@ I am a results-oriented __Full-Stack Developer__ with an __intermediate__ level 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/anton-duchenko-471369252/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/AntonDuchenko">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/AntonDuchenko?tab=repositories">
 		<img src="https://cdn.icon-icons.com/icons2/673/PNG/512/github_icon-icons.com_60477.png" width="40" height="40">
         </a>
         <a style="margin-left: 10px;" target="_blank" href="https://t.me/Anton_Duchenko">
